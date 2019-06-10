@@ -1,34 +1,35 @@
-- version: 0.6.0
-  date: '2019-06-05'
-  changes:
-    features:
-      - An updated entry!
-      - Another feature
-    enhancements:
-      - You can now change the contrast in your images
-      - An other enhancement
-    fixes:
-      - We fixed issues when connecting new cameras
-      - An other  fix
-    notes:
-      - This could be a more general note where we announce more stuff like PUBLIC BETA. See ref. Abstract
-- version: 0.5.13
+- version: 0.6.3
   date: '2019-06-04'
-  changes:
-    features:
-      - Another feature
-    enhancements: []
-    fixes: []
-    notes: []
-- version: 0.4.13
-  date: '2019-03-04'
   changes:
     features: []
     enhancements:
-      - You can now change the contrast in your images
-      - Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus cupiditate dicta, quibusdam facilis unde hic quasi corrupti eius praesentium at deserunt? Eos recusandae ipsum commodi perspiciatis ex eum soluta ullam atque voluptatum deleniti eaque, quos aliquam omnis vitae reprehenderit corrupti illum fuga voluptate ducimus adipisci ratione magnam quis? Reprehenderit, odit!
+      - Improvements to the Model Options UI.
+    fixes: []
+    notes: []
+
+- version: 0.6.2
+  date: '2019-06-04'
+  changes:
+    features: []
+    enhancements: []
     fixes:
-      - We fixed issues when connecting new cameras
-      - Another  fix
+      - Fixes for Windows and Linux login.
+    notes: []
+
+- version: 0.6.1
+  date: '2019-06-04'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Registration screen fixes for Windows and Linux.
+    notes: []
+
+- version: 0.6.0
+  date: '2019-06-04'
+  changes:
+    features: []
+    enhancements: []
+    fixes: []
     notes:
-      - 'This could be a more general note where we annouce more stuff like PUBLIC BETA. See ref. Abstract'
+      - Runway is now in Public Beta!
