@@ -17,13 +17,13 @@
   changes:
     features:
       - Another feature
-    enhancements:
-    fixes:
-    notes:
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.4.13
   date: 2019-03-04
   changes:
-    features:
+    features: []
     enhancements:
       - You can now change the contrast in your images
       - Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus cupiditate dicta, quibusdam facilis unde hic quasi corrupti eius praesentium at deserunt? Eos recusandae ipsum commodi perspiciatis ex eum soluta ullam atque voluptatum deleniti eaque, quos aliquam omnis vitae reprehenderit corrupti illum fuga voluptate ducimus adipisci ratione magnam quis? Reprehenderit, odit!
