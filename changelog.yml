@@ -1,5 +1,5 @@
 - version: 0.6.0
-  date: 2019-06-05
+  date: '2019-06-05'
   changes:
     features:
       - First New export view!
@@ -13,7 +13,7 @@
     notes:
       - This could be a more general note where we announce more stuff like PUBLIC BETA. See ref. Abstract
 - version: 0.5.13
-  date: 2019-06-04
+  date: '2019-06-04'
   changes:
     features:
       - Another feature
@@ -21,7 +21,7 @@
     fixes: []
     notes: []
 - version: 0.4.13
-  date: 2019-03-04
+  date: '2019-03-04'
   changes:
     features: []
     enhancements:
